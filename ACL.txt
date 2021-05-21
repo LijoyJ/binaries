@@ -1,0 +1,4 @@
+QASYMM8  -  (Asymmetric 8bit integer with scale / offset)
+                      Quantised 8bit using asymmetric integers (QASYMM8) 
+					  
+QS8 / QS16 - Fixed point 8bit and 16bit 
